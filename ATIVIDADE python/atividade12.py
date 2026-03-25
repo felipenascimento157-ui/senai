@@ -9,7 +9,7 @@ while True: # repete tudo que esta dentro dele
     if operacao not in ['entrada', 'saida']:
         print("operacao inválida.")
         continue
-    if # [executar o bloco de código] operaçao == 'sair':
+    if # [executar o bloco de código] operaçao == 'sair:
 
     if operacao == 'entrada':
         estoque[produto] = estoque.get(produto, 0) + qtd
